@@ -1,0 +1,8 @@
+{
+    "foo": "bar",
+    "foobar": {
+        "baz": "1",
+        "bar": "2"
+    },
+    "foobaz": ["x", "y"]
+}
